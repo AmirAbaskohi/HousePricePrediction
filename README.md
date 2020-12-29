@@ -4,7 +4,7 @@ This is an ML project for predictig house prices prediction.
 This is done for `Kaggle` competetion that I got a very good result that my score was 0.15 that you can see it below.
 The result file also is in files.
 
-![](images/result.png)
+<img src="images/result.png"/>
 
 Also here is the link.
 
